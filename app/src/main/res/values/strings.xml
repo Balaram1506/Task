@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task-1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Score fragment</string>
+    <string name="hello_profile_fragment">Hello Profile fragment</string>
+    <string name="hello_chat_fragment">Hello chat fragment</string>
+    <string name="hello_certificate_fragment">Hello certificate fragment</string>
+
+</resources>

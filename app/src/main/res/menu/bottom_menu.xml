@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/certificate"
+        android:title="Certificate"
+        android:icon="@drawable/baseline_article_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/baseline_person_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/chat"
+        android:title="Chat"
+        android:icon="@drawable/baseline_chat_24"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/score"
+        android:title="Score"
+        android:icon="@drawable/baseline_score_24"
+        app:showAsAction="ifRoom"/>
+
+</menu>
